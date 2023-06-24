@@ -1,0 +1,27 @@
+img {
+  width: 5%;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+li {
+  list-style: none;
+}
+.con1 {
+  display: flex;
+  align-items: center;
+  width: 40vw;
+}
+.con2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.first-con {
+  display: flex;
+}
+.p1 {
+  margin-right: 80px;
+}
+.p2 {
+  margin-left: 283px;
+}

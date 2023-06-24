@@ -1,0 +1,22 @@
+.bg-con {
+  padding: 25px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: normal;
+}
+span {
+  font-size: 15px;
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.files-heading {
+  display: flex;
+  align-items: center;
+
+  justify-content: space-around;
+}
